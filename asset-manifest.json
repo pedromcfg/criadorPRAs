@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/criadorPRAs/static/css/main.d5e1a5cf.css",
+    "main.js": "/criadorPRAs/static/js/main.b87bd483.js",
+    "static/js/453.0d1e0189.chunk.js": "/criadorPRAs/static/js/453.0d1e0189.chunk.js",
+    "index.html": "/criadorPRAs/index.html",
+    "main.d5e1a5cf.css.map": "/criadorPRAs/static/css/main.d5e1a5cf.css.map",
+    "main.b87bd483.js.map": "/criadorPRAs/static/js/main.b87bd483.js.map",
+    "453.0d1e0189.chunk.js.map": "/criadorPRAs/static/js/453.0d1e0189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e1a5cf.css",
+    "static/js/main.b87bd483.js"
+  ]
+}
